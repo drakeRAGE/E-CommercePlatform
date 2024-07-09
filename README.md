@@ -1,3 +1,7 @@
+![image](https://github.com/drakeRAGE/E-commerce-/assets/145892326/75dda8ee-0f65-4f40-b774-de49cc6708d1)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
